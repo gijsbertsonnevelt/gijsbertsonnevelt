@@ -2,7 +2,7 @@
 
 **NL** | [EN](#en)
 
-Hobbyist softwareontwikkelaar uit Nederland. Ik bouw praktische Windows-applicaties met C# en .NET — tools die ik zelf gebruik en die ik graag met anderen deel.
+Hobbyist softwareontwikkelaar uit Nederland. Ik bouw praktische Windows-applicaties met C#, .NET en PowerShell — tools die ik zelf gebruik en die ik graag met anderen deel.
 
 ---
 
